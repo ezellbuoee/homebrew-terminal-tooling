@@ -1,8 +1,8 @@
 class TerminalTooling < Formula
   desc "Ghostty + Zellij + yazi + starship terminal setup, themed Catppuccin Mocha"
   homepage "https://github.com/ezellbuoee/terminal-tooling"
-  url "https://github.com/ezellbuoee/terminal-tooling/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "901b4f1f19e4e563880fa69e02b486f55115b8ac94f7c185b61afe1c34b1b3ed"
+  url "https://github.com/ezellbuoee/terminal-tooling/archive/refs/tags/v3.0.0.tar.gz"
+  sha256 "1589a714d561a288271222fe9bbf9387043a516dc5a4617fcb34038d9ebb8cb2"
   head "https://github.com/ezellbuoee/terminal-tooling.git", branch: "main"
 
   depends_on :macos
